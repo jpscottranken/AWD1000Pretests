@@ -1,0 +1,11 @@
+/*  This is the CSS file for prestest #1 */
+body {
+  background-color: fuchsia;
+  color: white;
+  font-family: Georgia, Times, serif
+}
+
+#wrapper {
+  max-width: 500px;
+  margin: auto;
+}
