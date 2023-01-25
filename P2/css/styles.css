@@ -1,4 +1,13 @@
-/*  This is the CSS file for prestest #1 */
+/*  This is the CSS file for prestest #1
+    Float example shown below
+    https://www.w3schools.com/cssref/playdemo.php?filename=playcss_float&preval=left
+ 
+    Gradient example shown below
+    https://www.w3schools.com/css/tryit.asp?filename=trycss3_gradient-linear
+
+    CSS Position property shown below
+    https://www.w3schools.com/cssref/pr_class_position.php
+*/
 body {
   background-color: gold;
   color: green;
